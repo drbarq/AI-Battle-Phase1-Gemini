@@ -1,0 +1,28 @@
+body {
+  background-color: #282c34;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.App {
+  text-align: center;
+}
+
+.game-over {
+  margin-bottom: 1rem;
+}
+
+.joystick {
+  margin-top: 1rem;
+}
+
+.joystick button {
+  margin: 0.5rem;
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  cursor: pointer;
+}
